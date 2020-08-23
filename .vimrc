@@ -1,0 +1,1 @@
+/home2/ubuntu_home/aakash/.vimrc
